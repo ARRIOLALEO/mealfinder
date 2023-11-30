@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+section{
+    padding: 1rem;
+    background-color: aqua;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    align-items: center;
+}
